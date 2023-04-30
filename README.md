@@ -1,8 +1,8 @@
 # ​ ​ ​ ​ ​ provider-status
 ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​
 *Network multithreaded microservice for communication provider*  
-​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​
-![picFile](https://github.com/lent0s/provider-status/doc/gears.png)
+​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​
+![picFile](https://raw.githubusercontent.com/lent0s/provider-status/main/doc/gears.png)
 
 ---
 
@@ -11,7 +11,7 @@
   1. Клонировать репозиторий командой:  
      `git clone https://github.com/lent0s/provider-status`
   2. Микросервис получает данные из [симулятора](#sim). Настройте его и запустите
-  3. Настройте config.ini
+  3. Настройте [config.ini](https://github.com/lent0s/provider-status/blob/main/cmd/config.ini)
   4. Запустите микросервис командой из директории проекта:  
      `go run main.go`
      
@@ -38,19 +38,19 @@
 
 
 ​      http://host/ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ // выводит данные с записями Email для всех стран  
-​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​​ ​ ​ ​ ​/?c=X  ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​     // выводит данные с записями Email для Х страны  
-​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​  // (Х - код страны по ISO3166-1)
+​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ /?c=X  ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​    // выводит данные с записями Email для Х страны  
+​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ // (Х - код страны по ISO3166-1)
 
 ---
 
 ## <a name="sim">Симулятор</a>  
 
 Проект симулятора данных с github в отдельной директории 
-[skillbox-diploma](https://github.com/lent0s/provider-status/skillbox-diploma).  
+[skillbox-diploma](https://github.com/lent0s/provider-status/tree/main/skillbox-diploma).  
 В соответствии с файлом Readme в проекте симулятора запустите проект.  
 Проект сгенерирует нужные файлы и продолжит работать для обращения к нему  
 по API для получения дополнительных данных.
 
 ---
 
-#### Описание задания в [файле](https://github.com/lent0s/provider-status/doc/task.pdf)
+#### Описание задания в [файле](https://github.com/lent0s/provider-status/blob/main/doc/task.pdf)
