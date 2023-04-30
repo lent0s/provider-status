@@ -6,6 +6,14 @@
 
 ---
 
+### Описание:
+
+ ​ ​ ​ ​ ​ Микросервис, при обращении, многопоточно, собирает данные из файлов,  
+ делает запросы на сервер, обрабатывает полученные данные, сохраняет в кэш  
+ и возвращает их в JSON формате
+
+---
+
 ### Инструкция по запуску:
 
   1. Клонировать репозиторий командой:  
@@ -28,13 +36,13 @@
 #### Особенности по работе с симулятором:
 
 * *версия страницы вывода данных с Email по всем странам:​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ 
-[status_pageFull.html](https://github.com/lent0s/provider-status/skillbox-diploma/status_pageFull.html)  
+[status_pageFull.html](https://github.com/lent0s/provider-status/blob/main/skillbox-diploma/status_pageFull.html)  
 (для настройки входных данных используется файл
-[main.js](https://github.com/lent0s/provider-status/skillbox-diploma/main.js))*
+[main.js](https://github.com/lent0s/provider-status/blob/main/skillbox-diploma/main.js))*
 * *версия страницы вывода данных с Email по конкретной стране:​​ ​  ​ 
-[status_page.html](https://github.com/lent0s/provider-status/skillbox-diploma/status_page.html)  
+[status_page.html](https://github.com/lent0s/provider-status/blob/main/skillbox-diploma/status_page.html)  
 (для настройки входных данных используется файл
-[mainWeb.js](https://github.com/lent0s/provider-status/skillbox-diploma/mainWeb.js))*  
+[mainWeb.js](https://github.com/lent0s/provider-status/blob/main/skillbox-diploma/mainWeb.js))*  
 
 
 ​      http://host/ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ // выводит данные с записями Email для всех стран  
