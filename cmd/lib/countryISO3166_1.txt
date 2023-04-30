@@ -1,0 +1,251 @@
+﻿## "2-letters-code": {"3-numbers-code", "3-letters-code", "EN-name", "RU-name"}
+
+"AF": {"004", "AFG", "Afghanistan", "Афганистан"}
+"AL": {"008", "ALB", "Albania", "Албания"}
+"AQ": {"010", "ATA", "Antarctica", "Антарктика"}
+"DZ": {"012", "DZA", "Algeria", "Алжир"}
+"AS": {"016", "ASM", "American Samoa", "Американское Самоа"}
+"AD": {"020", "AND", "Andorra", "Андорра"}
+"AO": {"024", "AGO", "Angola", "Ангола"}
+"AG": {"028", "ATG", "Antigua and Barbuda", "Антигуа и Барбуда"}
+"AZ": {"031", "AZE", "Azerbaijan", "Азербайджан"}
+"AR": {"032", "ARG", "Argentina", "Аргентина"}
+"AU": {"036", "AUS", "Australia", "Австралия"}
+"AT": {"040", "AUT", "Austria", "Австрия"}
+"BS": {"044", "BHS", "Bahamas", "Багамские Острова"}
+"BH": {"048", "BHR", "Bahrain", "Бахрейн"}
+"BD": {"050", "BGD", "Bangladesh", "Бангладеш"}
+"AM": {"051", "ARM", "Armenia", "Армения"}
+"BB": {"052", "BRB", "Barbados", "Барбадос"}
+"BE": {"056", "BEL", "Belgium", "Бельгия"}
+"BM": {"060", "BMU", "Bermuda", "Бермуды"}
+"BT": {"064", "BTN", "Bhutan", "Бутан"}
+"BO": {"068", "BOL", "Bolivia (Plurinational State of)", "Боливия"}
+"BA": {"070", "BIH", "Bosnia and Herzegovina", "Босния и Герцеговина"}
+"BW": {"072", "BWA", "Botswana", "Ботсвана"}
+"BV": {"074", "BVT", "Bouvet Island", "Остров Буве"}
+"BR": {"076", "BRA", "Brazil", "Бразилия"}
+"BZ": {"084", "BLZ", "Belize", "Белиз"}
+"IO": {"086", "IOT", "British Indian Ocean Territory", "Британская Территория в Индийском Океане"}
+"SB": {"090", "SLB", "Solomon Islands", "Соломоновы Острова"}
+"VG": {"092", "VGB", "Virgin Islands (British)", "Виргинские Острова (Великобритания)"}
+"BN": {"096", "BRN", "Brunei Darussalam", "Бруней"}
+"BG": {"100", "BGR", "Bulgaria", "Болгария"}
+"MM": {"104", "MMR", "Myanmar", "Мьянма"}
+"BI": {"108", "BDI", "Burundi", "Бурунди"}
+"BY": {"112", "BLR", "Belarus", "Белоруссия"}
+"KH": {"116", "KHM", "Cambodia", "Камбоджа"}
+"CM": {"120", "CMR", "Cameroon", "Камерун"}
+"CA": {"124", "CAN", "Canada", "Канада"}
+"CV": {"132", "CPV", "Cabo Verde", "Кабо-Верде"}
+"KY": {"136", "CYM", "Cayman Islands", "Острова Кайман"}
+"CF": {"140", "CAF", "Central African Republic", "ЦАР"}
+"LK": {"144", "LKA", "Sri Lanka", "Шри-Ланка"}
+"TD": {"148", "TCD", "Chad", "Чад"}
+"CL": {"152", "CHL", "Chile", "Чили"}
+"CN": {"156", "CHN", "China", "Китай (Китайская Народная Республика)"}
+"TW": {"158", "TWN", "Taiwan, Province of China", "Китайская Республика"}
+"CX": {"162", "CXR", "Christmas Island", "Остров Рождества"}
+"CC": {"166", "CCK", "Cocos (Keeling) Islands", "Кокосовые острова"}
+"CO": {"170", "COL", "Colombia", "Колумбия"}
+"KM": {"174", "COM", "Comoros", "Коморы"}
+"YT": {"175", "MYT", "Mayotte", "Майотта"}
+"CG": {"178", "COG", "Congo", "Республика Конго"}
+"CD": {"180", "COD", "Congo, Democratic Republic of the", "ДР Конго"}
+"CK": {"184", "COK", "Cook Islands", "Острова Кука"}
+"CR": {"188", "CRI", "Costa Rica", "Коста-Рика"}
+"HR": {"191", "HRV", "Croatia", "Хорватия"}
+"CU": {"192", "CUB", "Cuba", "Куба"}
+"CY": {"196", "CYP", "Cyprus", "Кипр"}
+"CZ": {"203", "CZE", "Czechia", "Чехия"}
+"BJ": {"204", "BEN", "Benin", "Бенин"}
+"DK": {"208", "DNK", "Denmark", "Дания"}
+"DM": {"212", "DMA", "Dominica", "Доминика"}
+"DO": {"214", "DOM", "Dominican Republic", "Доминиканская Республика"}
+"EC": {"218", "ECU", "Ecuador", "Эквадор"}
+"SV": {"222", "SLV", "El Salvador", "Сальвадор"}
+"GQ": {"226", "GNQ", "Equatorial Guinea", "Экваториальная Гвинея"}
+"ET": {"231", "ETH", "Ethiopia", "Эфиопия"}
+"ER": {"232", "ERI", "Eritrea", "Эритрея"}
+"EE": {"233", "EST", "Estonia", "Эстония"}
+"FO": {"234", "FRO", "Faroe Islands", "Фарерские острова"}
+"FK": {"238", "FLK", "Falkland Islands (Malvinas)", "Фолклендские острова"}
+"GS": {"239", "SGS", "South Georgia and the South Sandwich Islands", "Южная Георгия и Южные Сандвичевы Острова"}
+"FJ": {"242", "FJI", "Fiji", "Фиджи"}
+"FI": {"246", "FIN", "Finland", "Финляндия"}
+"AX": {"248", "ALA", "land Islands", "Аландские острова"}
+"FR": {"250", "FRA", "France", "Франция"}
+"GF": {"254", "GUF", "French Guiana", "Гвиана"}
+"PF": {"258", "PYF", "French Polynesia", "Французская Полинезия"}
+"TF": {"260", "ATF", "French Southern Territories", "Французские Южные и Антарктические территории"}
+"DJ": {"262", "DJI", "Djibouti", "Джибути"}
+"GA": {"266", "GAB", "Gabon", "Габон"}
+"GE": {"268", "GEO", "Georgia", "Грузия"}
+"GM": {"270", "GMB", "Gambia", "Гамбия"}
+"PS": {"275", "PSE", "Palestine, State of", "Государство Палестина"}
+"DE": {"276", "DEU", "Germany", "Германия"}
+"GH": {"288", "GHA", "Ghana", "Гана"}
+"GI": {"292", "GIB", "Gibraltar", "Гибралтар"}
+"KI": {"296", "KIR", "Kiribati", "Кирибати"}
+"GR": {"300", "GRC", "Greece", "Греция"}
+"GL": {"304", "GRL", "Greenland", "Гренландия"}
+"GD": {"308", "GRD", "Grenada", "Гренада"}
+"GP": {"312", "GLP", "Guadeloupe", "Гваделупа"}
+"GU": {"316", "GUM", "Guam", "Гуам"}
+"GT": {"320", "GTM", "Guatemala", "Гватемала"}
+"GN": {"324", "GIN", "Guinea", "Гвинея"}
+"GY": {"328", "GUY", "Guyana", "Гайана"}
+"HT": {"332", "HTI", "Haiti", "Гаити"}
+"HM": {"334", "HMD", "Heard Island and McDonald Islands", "Херд и Макдональд"}
+"VA": {"336", "VAT", "Holy See", "Ватикан"}
+"HN": {"340", "HND", "Honduras", "Гондурас"}
+"HK": {"344", "HKG", "Hong Kong", "Гонконг"}
+"HU": {"348", "HUN", "Hungary", "Венгрия"}
+"IS": {"352", "ISL", "Iceland", "Исландия"}
+"IN": {"356", "IND", "India", "Индия"}
+"ID": {"360", "IDN", "Indonesia", "Индонезия"}
+"IR": {"364", "IRN", "Iran (Islamic Republic of)", "Иран"}
+"IQ": {"368", "IRQ", "Iraq", "Ирак"}
+"IE": {"372", "IRL", "Ireland", "Ирландия"}
+"IL": {"376", "ISR", "Israel", "Израиль"}
+"IT": {"380", "ITA", "Italy", "Италия"}
+"CI": {"384", "CIV", "Cote d'Ivoire", "Кот-д’Ивуар"}
+"JM": {"388", "JAM", "Jamaica", "Ямайка"}
+"JP": {"392", "JPN", "Japan", "Япония"}
+"KZ": {"398", "KAZ", "Kazakhstan", "Казахстан"}
+"JO": {"400", "JOR", "Jordan", "Иордания"}
+"KE": {"404", "KEN", "Kenya", "Кения"}
+"KP": {"408", "PRK", "Korea (Democratic People's Republic of)", "КНДР (Корейская Народно-Демократическая Республика)"}
+"KR": {"410", "KOR", "Korea, Republic of", "Республика Корея"}
+"KW": {"414", "KWT", "Kuwait", "Кувейт"}
+"KG": {"417", "KGZ", "Kyrgyzstan", "Киргизия"}
+"LA": {"418", "LAO", "Lao People's Democratic Republic", "Лаос"}
+"LB": {"422", "LBN", "Lebanon", "Ливан"}
+"LS": {"426", "LSO", "Lesotho", "Лесото"}
+"LV": {"428", "LVA", "Latvia", "Латвия"}
+"LR": {"430", "LBR", "Liberia", "Либерия"}
+"LY": {"434", "LBY", "Libya", "Ливия"}
+"LI": {"438", "LIE", "Liechtenstein", "Лихтенштейн"}
+"LT": {"440", "LTU", "Lithuania", "Литва"}
+"LU": {"442", "LUX", "Luxembourg", "Люксембург"}
+"MO": {"446", "MAC", "Macao", "Макао"}
+"MG": {"450", "MDG", "Madagascar", "Мадагаскар"}
+"MW": {"454", "MWI", "Malawi", "Малави"}
+"MY": {"458", "MYS", "Malaysia", "Малайзия"}
+"MV": {"462", "MDV", "Maldives", "Мальдивы"}
+"ML": {"466", "MLI", "Mali", "Мали"}
+"MT": {"470", "MLT", "Malta", "Мальта"}
+"MQ": {"474", "MTQ", "Martinique", "Мартиника"}
+"MR": {"478", "MRT", "Mauritania", "Мавритания"}
+"MU": {"480", "MUS", "Mauritius", "Маврикий"}
+"MX": {"484", "MEX", "Mexico", "Мексика"}
+"MC": {"492", "MCO", "Monaco", "Монако"}
+"MN": {"496", "MNG", "Mongolia", "Монголия"}
+"MD": {"498", "MDA", "Moldova, Republic of", "Молдавия"}
+"ME": {"499", "MNE", "Montenegro", "Черногория"}
+"MS": {"500", "MSR", "Montserrat", "Монтсеррат"}
+"MA": {"504", "MAR", "Morocco", "Марокко"}
+"MZ": {"508", "MOZ", "Mozambique", "Мозамбик"}
+"OM": {"512", "OMN", "Oman", "Оман"}
+"NA": {"516", "NAM", "Namibia", "Намибия"}
+"NR": {"520", "NRU", "Nauru", "Науру"}
+"NP": {"524", "NPL", "Nepal", "Непал"}
+"NL": {"528", "NLD", "Netherlands", "Нидерланды"}
+"CW": {"531", "CUW", "Curacao", "Кюрасао"}
+"AW": {"533", "ABW", "Aruba", "Аруба"}
+"SX": {"534", "SXM", "Sint Maarten (Dutch part)", "Синт-Мартен"}
+"BQ": {"535", "BES", "Bonaire, Sint Eustatius and Saba", "Бонайре, Синт-Эстатиус и Саба"}
+"NC": {"540", "NCL", "New Caledonia", "Новая Каледония"}
+"VU": {"548", "VUT", "Vanuatu", "Вануату"}
+"NZ": {"554", "NZL", "New Zealand", "Новая Зеландия"}
+"NI": {"558", "NIC", "Nicaragua", "Никарагуа"}
+"NE": {"562", "NER", "Niger", "Нигер"}
+"NG": {"566", "NGA", "Nigeria", "Нигерия"}
+"NU": {"570", "NIU", "Niue", "Ниуэ"}
+"NF": {"574", "NFK", "Norfolk Island", "Остров Норфолк"}
+"NO": {"578", "NOR", "Norway", "Норвегия"}
+"MP": {"580", "MNP", "Northern Mariana Islands", "Северные Марианские Острова"}
+"UM": {"581", "UMI", "United States Minor Outlying Islands", "Внешние малые острова США"}
+"FM": {"583", "FSM", "Micronesia (Federated States of)", "Микронезия"}
+"MH": {"584", "MHL", "Marshall Islands", "Маршалловы Острова"}
+"PW": {"585", "PLW", "Palau", "Палау"}
+"PK": {"586", "PAK", "Pakistan", "Пакистан"}
+"PA": {"591", "PAN", "Panama", "Панама"}
+"PG": {"598", "PNG", "Papua New Guinea", "Папуа — Новая Гвинея"}
+"PY": {"600", "PRY", "Paraguay", "Парагвай"}
+"PE": {"604", "PER", "Peru", "Перу"}
+"PH": {"608", "PHL", "Philippines", "Филиппины"}
+"PN": {"612", "PCN", "Pitcairn", "Острова Питкэрн"}
+"PL": {"616", "POL", "Poland", "Польша"}
+"PT": {"620", "PRT", "Portugal", "Португалия"}
+"GW": {"624", "GNB", "Guinea-Bissau", "Гвинея-Бисау"}
+"TL": {"626", "TLS", "Timor-Leste", "Восточный Тимор"}
+"PR": {"630", "PRI", "Puerto Rico", "Пуэрто-Рико"}
+"QA": {"634", "QAT", "Qatar", "Катар"}
+"RE": {"638", "REU", "Reunion", "Реюньон"}
+"RO": {"642", "ROU", "Romania", "Румыния"}
+"RU": {"643", "RUS", "Russian Federation", "Россия"}
+"RW": {"646", "RWA", "Rwanda", "Руанда"}
+"BL": {"652", "BLM", "Saint Barthуlemy", "Сен-Бартелеми"}
+"SH": {"654", "SHN", "Saint Helena, Ascension and Tristan da Cunha", "Остров Святой Елены"}
+"KN": {"659", "KNA", "Saint Kitts and Nevis", "Сент-Китс и Невис"}
+"AI": {"660", "AIA", "Anguilla", "Ангилья"}
+"LC": {"662", "LCA", "Saint Lucia", "Сент-Люсия"}
+"MF": {"663", "MAF", "Saint Martin (French part)", "Сен-Мартен"}
+"PM": {"666", "SPM", "Saint Pierre and Miquelon", "Сен-Пьер и Микелон"}
+"VC": {"670", "VCT", "Saint Vincent and the Grenadines", "Сент-Винсент и Гренадины"}
+"SM": {"674", "SMR", "San Marino", "Сан-Марино"}
+"ST": {"678", "STP", "Sao Tome and Principe", "Сан-Томе и Принсипи"}
+"SA": {"682", "SAU", "Saudi Arabia", "Саудовская Аравия"}
+"SN": {"686", "SEN", "Senegal", "Сенегал"}
+"RS": {"688", "SRB", "Serbia", "Сербия"}
+"SC": {"690", "SYC", "Seychelles", "Сейшельские Острова"}
+"SL": {"694", "SLE", "Sierra Leone", "Сьерра-Леоне"}
+"SG": {"702", "SGP", "Singapore", "Сингапур"}
+"SK": {"703", "SVK", "Slovakia", "Словакия"}
+"VN": {"704", "VNM", "Viet Nam", "Вьетнам"}
+"SI": {"705", "SVN", "Slovenia", "Словения"}
+"SO": {"706", "SOM", "Somalia", "Сомали"}
+"ZA": {"710", "ZAF", "South Africa", "ЮАР"}
+"ZW": {"716", "ZWE", "Zimbabwe", "Зимбабве"}
+"ES": {"724", "ESP", "Spain", "Испания"}
+"SS": {"728", "SSD", "South Sudan", "Южный Судан"}
+"SD": {"729", "SDN", "Sudan", "Судан"}
+"EH": {"732", "ESH", "Western Sahara", "САДР"}
+"SR": {"740", "SUR", "Suriname", "Суринам"}
+"SJ": {"744", "SJM", "Svalbard and Jan Mayen", "Шпицберген и Ян-Майен"}
+"SZ": {"748", "SWZ", "Eswatini", "Эсватини"}
+"SE": {"752", "SWE", "Sweden", "Швеция"}
+"CH": {"756", "CHE", "Switzerland", "Швейцария"}
+"SY": {"760", "SYR", "Syrian Arab Republic", "Сирия"}
+"TJ": {"762", "TJK", "Tajikistan", "Таджикистан"}
+"TH": {"764", "THA", "Thailand", "Таиланд"}
+"TG": {"768", "TGO", "Togo", "Того"}
+"TK": {"772", "TKL", "Tokelau", "Токелау"}
+"TO": {"776", "TON", "Tonga", "Тонга"}
+"TT": {"780", "TTO", "Trinidad and Tobago", "Тринидад и Тобаго"}
+"AE": {"784", "ARE", "United Arab Emirates", "ОАЭ"}
+"TN": {"788", "TUN", "Tunisia", "Тунис"}
+"TR": {"792", "TUR", "Turkiye", "Турция"}
+"TM": {"795", "TKM", "Turkmenistan", "Туркменистан"}
+"TC": {"796", "TCA", "Turks and Caicos Islands", "Теркс и Кайкос"}
+"TV": {"798", "TUV", "Tuvalu", "Тувалу"}
+"UG": {"800", "UGA", "Uganda", "Уганда"}
+"UA": {"804", "UKR", "Ukraine", "Украина"}
+"MK": {"807", "MKD", "North Macedonia", "Северная Македония"}
+"EG": {"818", "EGY", "Egypt", "Египет"}
+"GB": {"826", "GBR", "United Kingdom of Great Britain and Northern Ireland", "Великобритания"}
+"GG": {"831", "GGY", "Guernsey", "Гернси"}
+"JE": {"832", "JEY", "Jersey", "Джерси"}
+"IM": {"833", "IMN", "Isle of Man", "Остров Мэн"}
+"TZ": {"834", "TZA", "Tanzania, United Republic of", "Танзания"}
+"US": {"840", "USA", "United States of America", "США"}
+"VI": {"850", "VIR", "Virgin Islands (U.S.)", "Виргинские Острова (США)"}
+"BF": {"854", "BFA", "Burkina Faso", "Буркина-Фасо"}
+"UY": {"858", "URY", "Uruguay", "Уругвай"}
+"UZ": {"860", "UZB", "Uzbekistan", "Узбекистан"}
+"VE": {"862", "VEN", "Venezuela (Bolivarian Republic of)", "Венесуэла"}
+"WF": {"876", "WLF", "Wallis and Futuna", "Уоллис и Футуна"}
+"WS": {"882", "WSM", "Samoa", "Самоа"}
+"YE": {"887", "YEM", "Yemen", "Йемен"}
+"ZM": {"894", "ZMB", "Zambia", "Замбия"}
